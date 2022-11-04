@@ -1,8 +1,8 @@
 # :cloud: Introduction
-This package has been created because complex vertical merging or rowspan is limited in docxtpl  
+This package has been created because complex vertical merging or rowspan is limited in docxtpl.  
 <br>   
 
-# :arrow_down: Select one to install
+# :round_pushpin: Select one to install
 * download docxtpl_dynamic_vertical_merging.zip && `pip3 install docxtpl_dynamic_vertical_merging.zip`
 * `pip3 install git+https://github.com/tsy19900929/docxtpl_dynamic_vertical_merging.git`
 <br>
@@ -16,5 +16,7 @@ This package has been created because complex vertical merging or rowspan is lim
  `}` 
 
 # :tv: Examples
-* test1
-* test2
+:arrow_forward: test1  
+<img src="https://github.com/tsy19900929/docxtpl_dynamic_vertical_merging/blob/main/test1.png" height="200" />   
+:arrow_forward: test2  
+<img src="https://github.com/tsy19900929/docxtpl_dynamic_vertical_merging/blob/main/test2.png" height="200" width="800" />
