@@ -8,7 +8,7 @@ This package has been created because complex vertical merging or rowspan is lim
 <br>
 
 # :zap:Usage
-Following code merges given column: **row1-3** into a group,  **row4-6** into a group,  **row7-9** into a group.  
+Following code merges given column(**B**): **row1-3** into a group,  **row4-6** into a group,  **row7-9** into a group.  
 `from docxtpldvm import DVM`  
 `context = {`  
   `'t':range(1,10),`    
