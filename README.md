@@ -19,4 +19,4 @@ This package has been created because complex vertical merging or rowspan is lim
 :arrow_forward: test1  
 <img src="https://github.com/tsy19900929/docxtpl_dynamic_vertical_merging/blob/main/test1.png" height="200" />   
 :arrow_forward: test2  
-<img src="https://github.com/tsy19900929/docxtpl_dynamic_vertical_merging/blob/main/test2.png" height="200" width="800" />
+<img src="https://github.com/tsy19900929/docxtpl_dynamic_vertical_merging/blob/main/test_2.png" height="108" />
