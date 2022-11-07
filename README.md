@@ -1,4 +1,4 @@
-# :cloud: Introduction
+# docxtpl_dynamic_vertical_merging
 This package has been created because complex vertical merging or rowspan is limited in docxtpl.  
 <br>   
 
