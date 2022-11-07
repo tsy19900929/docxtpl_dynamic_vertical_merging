@@ -13,8 +13,9 @@ Following code merges given column(**B**): **row1-3** into a group,  **row4-6** 
 `context = {`  
   `'t':range(1,10),`    
   `'B':DVM([(1,3),(4,6),(7,9)])`  
- `}` 
-
+ `}`   
+<br>
+  
 # :tv: Examples
 :arrow_forward: test1  
 <img src="https://github.com/tsy19900929/docxtpl_dynamic_vertical_merging/blob/main/test1.jpg" height="200" />   
